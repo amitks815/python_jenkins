@@ -1,0 +1,23 @@
+
+Step 1 : check if git is already installed
+             git --version
+
+Step 2 : download and install git
+
+Step 3 : add your project to git
+
+Step 4 : commands
+
+   git config --global user.email "yourGitHub@email.com"
+   git config --global user.name "yourGitHubusername"
+
+  - git init
+  - git status
+  - git add
+  - git commit -m “…..”
+  - git remote add origin https://github.com/RaghavAutomation/R...
+  - git push -u origin master
+  - git log
+  - git —help
+
+Step 5 : adding project to remote repository (github)
